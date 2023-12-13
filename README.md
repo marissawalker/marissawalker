@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Marissa!
 
 - 🔭 I’m a former physics professor, and I specialized in data analysis methods for graviational-wave detectors
-- 📊 I'm currently working on analyzing my [personal data from various apps][https://github.com/marissawalker/life-data/]
+- 📊 I'm currently working on analyzing my [personal data from various apps](https://github.com/marissawalker/life-data/) 
 - 🎹 Fun fact: I love playing piano
 
   
